@@ -1,0 +1,20 @@
+PODS:
+  - SwiftyDrop (4.2.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - SwiftyDrop (~> 4.0)
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - SwiftyDrop
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  SwiftyDrop: c5b306082dfbd7d6b9c1e569dcdd2ab13306e552
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 8a8694acb38ee04a507fb43e6d6df30680fb81fb
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Stackflow/Pods-Stackflow-frameworks.sh
+${BUILT_PRODUCTS_DIR}/SwiftyDrop/SwiftyDrop.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
